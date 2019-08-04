@@ -1,2 +1,2 @@
-# hello-world
+# golang
 getting use to with github
